@@ -1,2 +1,21 @@
 'use-strict';
-//add your code here
+
+function h1Selector() {
+  return $()
+}
+
+function LiInOlSelector() {
+  
+}
+
+function linkSelector() {
+  
+}
+
+function imageSelector() {
+  
+}
+
+function checkboxInputSelector() {
+  
+}
